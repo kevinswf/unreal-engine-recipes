@@ -2,6 +2,9 @@
 Contains various Unreal Engine standalone projects.  
 UE5 project hosted on Azure DevOps https://dev.azure.com/kevinswfan/_git/unreal-engine-recipes
 
+### Digital Twin + GenAI
+https://github.com/user-attachments/assets/e8fcd8c6-327f-46e8-800f-2b3d8f1e2731
+
 ### BlockBuilding
 https://github.com/kevinswf/unreal-engine-recipes/assets/9206347/09a881b0-4203-4ce8-8fcf-380a5d68c52a
 
